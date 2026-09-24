@@ -14,7 +14,7 @@
   <a href="mailto:hirunkolongahapitiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://hirun.lk"><img src="https://img.shields.io/badge/Portfolio-hirun.lk-43F700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://hirun.lk/blog"><img src="https://img.shields.io/badge/Blog-hirun.lk%2Fblog-0d1117?style=for-the-badge&logo=rss&logoColor=43F700" /></a>
-  <a href="https://dev.to/isurukumara"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://dev.to/hirundev"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCx3mqKMqiuaO1rFSO8t5YrA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
@@ -161,7 +161,7 @@ const hirun = {
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> 📝 New articles every week on [hirun.lk/blog](https://hirun.lk/blog) and [DEV.to](https://dev.to/isurukumara)
+> 📝 New articles every week on [hirun.lk/blog](https://hirun.lk/blog) and [DEV.to](https://dev.to/hirundev)
 
 ---
 
