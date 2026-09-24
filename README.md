@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isuru-kumara&label=Profile%20Views&color=43f700&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hirun-kolongahapitiya&label=Profile%20Views&color=43f700&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0d1117?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-43f700?style=flat-square" />
 </p>
@@ -142,16 +142,16 @@ const hirun = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isuru-kumara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&icon_color=43f700&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-kumara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hirun-kolongahapitiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&icon_color=43f700&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirun-kolongahapitiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isuru-kumara&theme=tokyonight&hide_border=true&background=0d1117&ring=43f700&fire=43f700&currStreakLabel=43f700" />
+  <img src="https://streak-stats.demolab.com?user=hirun-kolongahapitiya&theme=tokyonight&hide_border=true&background=0d1117&ring=43f700&fire=43f700&currStreakLabel=43f700" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isuru-kumara&bg_color=0d1117&color=43f700&line=43f700&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hirun-kolongahapitiya&bg_color=0d1117&color=43f700&line=43f700&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -169,8 +169,8 @@ const hirun = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isuru-kumara/isuru-kumara/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/isuru-kumara/isuru-kumara/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirun-kolongahapitiya/hirun-kolongahapitiya/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/hirun-kolongahapitiya/hirun-kolongahapitiya/output/github-snake.svg" />
   </picture>
 </p>
 
