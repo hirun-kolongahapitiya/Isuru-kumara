@@ -165,17 +165,6 @@ const hirun = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirun-kolongahapitiya/hirun-kolongahapitiya/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/hirun-kolongahapitiya/hirun-kolongahapitiya/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 <p align="center">
   <i>"Automate the boring stuff, build the exciting stuff."</i>
 </p>
