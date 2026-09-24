@@ -1,19 +1,19 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d0f,100:43f700&height=200&section=header&text=Hirun%20Kolongahapitiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Data%20Engineer%20%7C%20AI%20Automation&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hirun+Kolongahapitiya&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=43F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Engineer+%40+TOPEX+(Remote);AI+Automation+Engineer;Building+aEye+%F0%9F%A4%96+SaaS+Chatbots;DevOps+%7C+Docker+%7C+CI%2FCD;Tech+Writer+%40+Hiru+Techub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=43F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Engineer+%40+TOPEX+(Remote);AI+Automation+Engineer;Building+aEye+%F0%9F%A4%96+SaaS+Chatbots;DevOps+%7C+Docker+%7C+CI%2FCD;Portfolio+%E2%86%92+hirun.lk" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isuru-kumara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hirun-kolongahapitiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hirunkolongahapitiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://hiruntechub.me"><img src="https://img.shields.io/badge/Hiru_Techub-43F700?style=for-the-badge&logo=hashnode&logoColor=black" /></a>
-  <a href="https://isurukumara.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://hirun.lk"><img src="https://img.shields.io/badge/Portfolio-hirun.lk-43F700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://hirun.lk/blog"><img src="https://img.shields.io/badge/Blog-hirun.lk%2Fblog-0d1117?style=for-the-badge&logo=rss&logoColor=43F700" /></a>
   <a href="https://dev.to/isurukumara"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCx3mqKMqiuaO1rFSO8t5YrA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
@@ -37,6 +37,8 @@ const hirun = {
   building:    "aEye: multi-tenant AI chatbot SaaS (aeye.lk)",
   education:   "BICT (Hons) in Business Intelligence, Uva Wellassa University",
   experience:  "2+ years",
+  portfolio:   "https://hirun.lk",
+  blog:        "https://hirun.lk/blog",
   languages:   ["English", "Sinhala"],
   focus:       ["AI Integration", "Automation", "Data Pipelines", "DevOps"],
   funFact:     "I turn Raspberry Pis into security cameras for fun 📷",
@@ -46,7 +48,7 @@ const hirun = {
 - 🔭 Working remotely as a **Data Engineer** while shipping **full stack** products
 - 🤖 Building **aEye**, a multi-tenant SaaS chatbot platform with WhatsApp API and Stripe billing
 - ⚙️ Passionate about **automation, CI/CD and clean infrastructure** (Docker, GitHub Actions, nginx)
-- ✍️ I write weekly about new tech and trends on **[Hiru Techub](https://hiruntechub.me)**
+- ✍️ I write weekly about new tech and trends on my blog at **[hirun.lk/blog](https://hirun.lk/blog)**
 - 💬 Ask me about **Next.js, Node.js, Python, data pipelines, AI agents, DevOps**
 
 ---
@@ -159,7 +161,7 @@ const hirun = {
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> 📝 New articles every week on [Hiru Techub](https://hiruntechub.me) and [Medium](https://isurukumara.medium.com/)
+> 📝 New articles every week on [hirun.lk/blog](https://hirun.lk/blog) and [DEV.to](https://dev.to/isurukumara)
 
 ---
 
