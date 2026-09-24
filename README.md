@@ -1,55 +1,183 @@
-<h1 align="center">Hi 👋, I'm Hirun Kolongahapitiya</h1>
-
+<!-- ============ BANNER ============ -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=900&color=43F700&center=true&vCenter=true&random=false&width=435&lines=I+am+Hirun+Kolongahapitiya;I+am+Working+as; AI+Developer;Web+Developer;Software+Developer;App+developer;Article+Writer" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d0f,100:43f700&height=200&section=header&text=Hirun%20Kolongahapitiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Data%20Engineer%20%7C%20AI%20Automation&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
-<!-- Header -->
-<h3 align="center">Passionate AI & Software Developer from Sri Lanka</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=43F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Engineer+%40+TOPEX+(Remote);AI+Automation+Engineer;Building+aEye+%F0%9F%A4%96+SaaS+Chatbots;DevOps+%7C+Docker+%7C+CI%2FCD;Tech+Writer+%40+Hiru+Techub" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Introduction -->
-<p align="center">👋 Hey there! I'm Hirun Kolongahapitiya, a dedicated developer hailing from Sri Lanka with a passion for Programming, Web and App Development, and Graphic Designing.</p><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/isuru-kumara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hirunkolongahapitiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hiruntechub.me"><img src="https://img.shields.io/badge/Hiru_Techub-43F700?style=for-the-badge&logo=hashnode&logoColor=black" /></a>
+  <a href="https://isurukumara.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/isurukumara"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCx3mqKMqiuaO1rFSO8t5YrA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isuru-kumara&label=Profile%20Views&color=43f700&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-43f700?style=flat-square" />
+</p>
 
-<!-- Technologies I'm Learning -->
-<p align="center">🌱 <strong>Currently diving into </strong><br>
-<span style="color: #43f700;">HTML, CSS, Bootstrap, JavaScript, PHP, SQL, React js, Node.js, Vue.js, Flutter</span>.</p><br>
+---
 
-<!-- Ask Me About -->
-<p align="center">💬 <strong>Curious about </strong><br>
-<span style="color: #43f700;">Python, C, Java, Firebase, AI  ?</span> <br>
-Feel free to ask me anything!</p><br>
+## 👨‍💻 About Me
 
-<!-- Contact Information -->
-<p align="center">📫 <strong>You can reach me via email: </strong><br>
-<a href="mailto:isurukumara07194@gmail.com"><span style="color: #43f700;">hirunkolongahapitiya@gmail.com</span></a>.</p>
+```js
+const hirun = {
+  name:        "Hirun Kolongahapitiya",
+  location:    "Colombo, Sri Lanka 🇱🇰",
+  role:        ["Full Stack Developer", "Data Engineer", "AI Automation Engineer"],
+  currently:   "Data Engineer @ TOPEX (Remote)",
+  building:    "aEye: multi-tenant AI chatbot SaaS (aeye.lk)",
+  education:   "BICT (Hons) in Business Intelligence, Uva Wellassa University",
+  experience:  "2+ years",
+  languages:   ["English", "Sinhala"],
+  focus:       ["AI Integration", "Automation", "Data Pipelines", "DevOps"],
+  funFact:     "I turn Raspberry Pis into security cameras for fun 📷",
+};
+```
 
-<!-- Medium Articles -->
-<p align="center">📝 I share insights and knowledge through my weekly articles about new technolgies and Tech Trends on <a href="https://hiruntechub.me"> <br><span style="color: #43f700;">Hiru Techub</span></a>.</p>
+- 🔭 Working remotely as a **Data Engineer** while shipping **full stack** products
+- 🤖 Building **aEye**, a multi-tenant SaaS chatbot platform with WhatsApp API and Stripe billing
+- ⚙️ Passionate about **automation, CI/CD and clean infrastructure** (Docker, GitHub Actions, nginx)
+- ✍️ I write weekly about new tech and trends on **[Hiru Techub](https://hiruntechub.me)**
+- 💬 Ask me about **Next.js, Node.js, Python, data pipelines, AI agents, DevOps**
 
+---
 
+## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 aEye</h3>
+      <p>Multi-tenant SaaS chatbot platform for businesses. WhatsApp API integration, Stripe subscription billing and automated CI/CD deployments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <a href="https://aeye.lk">🌐 aeye.lk</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Prediction Market Arbitrage Bot</h3>
+      <p>High performance arbitrage bot written in Rust, containerised with Docker and fully deployed through a GitHub Actions CI/CD pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 AI-Controlled Green House</h3>
+      <p>Smart greenhouse that uses sensors and AI driven decisions to automate plant care and environment control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-43f700?style=flat-square&logo=raspberrypi&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📷 Pi Security Camera & Intercom</h3>
+      <p>Raspberry Pi home security camera with secure remote streaming and two-way intercom, built on go2rtc and Tailscale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
+        <img src="https://img.shields.io/badge/go2rtc-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 <p align="left">
-<a href="https://dev.to/isurukumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isurukumara" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/isuru-kumara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hirun Kolongahapitiya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/isurukumara.hirun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hirun Kolongahapitiya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/isuru_kumara_000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hirun Kolongahapitiya" height="30" width="40" /></a>
-<a href="https://isurukumara.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Hirun Kolongahapitiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCx3mqKMqiuaO1rFSO8t5YrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hirun Kolongahapitiya" height="30" width="40" /></a>
-</p><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,php,java,c,dart&perline=12" />
+</p>
 
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css,flutter&perline=12" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p><br>
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase,redis&perline=12" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-kumara&show_icons=true&locale=en&layout=compact" alt="isuru-kumara" /></p>
+**Data & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow&perline=12" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuru-kumara&show_icons=true&locale=en" alt="isuru-kumara" /></p>
+**DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git,github,raspberrypi&perline=12" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" height="48" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuru-kumara&" alt="isuru-kumara" /></p>
+**Tools & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps,ai&perline=12" />
+</p>
 
+---
 
+## 📊 GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isuru-kumara&label=Profile%20views&color=0e75b6&style=flat" alt="Isuru-kumara" /> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isuru-kumara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&icon_color=43f700&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-kumara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43f700&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isuru-kumara&theme=tokyonight&hide_border=true&background=0d1117&ring=43f700&fire=43f700&currStreakLabel=43f700" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isuru-kumara&bg_color=0d1117&color=43f700&line=43f700&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> 📝 New articles every week on [Hiru Techub](https://hiruntechub.me) and [Medium](https://isurukumara.medium.com/)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isuru-kumara/isuru-kumara/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/isuru-kumara/isuru-kumara/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automate the boring stuff, build the exciting stuff."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43f700,50:0f3d0f,100:0d1117&height=120&section=footer" />
+</p>
